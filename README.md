@@ -1,2 +1,3 @@
 # rader
 A 360 degree lidar build ;)
+So in simple terms its that cool ahh hologram thing u see spiderman uses on his gauntlet; if u dont get it :( its basically a handheld 360 degree 3d lidar scanning system thats mounted on a gauntlet and can make 2d and 3d maps of my surroundings, im partially building it cuz i cld js pull it out and flex a gauntlet with a hologram kinda thing that shows u the whole place on it and otherwise im building it cuz iv always loved lidars but i was too broke to buy an actual one other than a ToF sensor and ultrasonic sensors ofc :D
